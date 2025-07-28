@@ -7,7 +7,7 @@
 <h2> - 🌱 I’m currently working on ...</h2>
 
 - <b>Netflix clone- (React, JS)</b>
-  (https://github.com/joshmadakor1/Algorithms-Practice)
+  (https://github.com/ruby-bnf/netflix_clone)
 
 
 <h2> 📫 How to reach me:</h2>
